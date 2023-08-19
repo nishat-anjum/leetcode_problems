@@ -11,7 +11,8 @@ public class MergeTwoArray88 {
     public static void main(String args[]) {
         int[] nums1 = new int[]{0, 1, 2, 3, 4, 0, 0, 0, 0};
         int[] nums2 = new int[]{2, 3, 4, 5};
-        merge_solution(nums1, 5, nums2, 4);
+//        merge_solution(nums1, 5, nums2, 4);
+        System.out.println(0%2);
     }
 
     public static void merge_JAVA_accepted(int[] nums1, int m, int[] nums2, int n) {
